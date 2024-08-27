@@ -116,12 +116,12 @@
   {
     "id": "dataStaticGear",
     "md5": "43752a252ba67b8491945ad648dea931",
-    "url": "https://raw.githubusercontent.com/Rodlip/Static-Storage/main/Reference/gear.json"
+    "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Reference/gear.json"
   },
   {
     "id": "dataStaticGearAdvanced",
     "md5": "7cc0f3d523b1423e11f5fcb7a508c2d9",
-    "url": "https://raw.githubusercontent.com/Rodlip/Static-Storage/main/Reference/advanced_gear.json"
+    "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Reference/advanced_gear.json"
   },
   {
     "id": "dataStaticIdentificationKeys",
